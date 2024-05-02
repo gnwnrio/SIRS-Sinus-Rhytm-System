@@ -1,0 +1,11 @@
+Admin Login Details
+
+Email   : admin@mail.com
+Password: Password@123
+
+---------------------------------------------------------------------------
+
+Doctor Login Details
+
+ID Doctor : GRW17
+Password : 123
